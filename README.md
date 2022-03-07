@@ -5,7 +5,6 @@
 
 ![FrequencyHz GitHub stats](https://github-readme-stats.vercel.app/api?username=FrequencyHz&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrequencyHz&layout=compact)](https://github.com/FrequencyHz/github-readme-stats)
 
 </br>
 </br>
