@@ -28,7 +28,7 @@
   ##
   
   <h3>Social</h3>
-  <a href="https://discordapp.com/users/609858713263538196/"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
+  <a href="https://discordapp.com/users/609858713263538196/" target="_blank"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
   
   
     
