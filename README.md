@@ -13,9 +13,6 @@
 
 ##
 
-</br>
-
-
 <div style="display: inline_block">
   
 <h3>Technologies</h3>
