@@ -19,16 +19,22 @@
 <div style="display: inline_block">
   
 <h3>Technologies</h3>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          
+  <img align="center" alt="teste" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50px">
   
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50px">
   
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="43px">
+  
+  <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="50px">
+  
+  <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50px">
   
   ##
   
   <h3>Social</h3>
   <a href="https://discordapp.com/users/609858713263538196/" target="_blank"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
+  <a href="https://www.instagram.com/hz_bancher/" target="_blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   
   
     
