@@ -32,7 +32,7 @@
   
   <h3>Social</h3>
   <a href="https://discordapp.com/users/609858713263538196/" target="_blank"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
-  <a href="https://www.instagram.com/hz_bancher/" target="_blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  
   
   
     
